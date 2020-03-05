@@ -1,8 +1,22 @@
 [
     {
-        "pimage":"",
-        "pname":"",
-        "pcategory":"",
-        "palbum":""
+        "pimage": "",
+        "pname": "Lay Phyu - လေးဖြူ",
+        "pcategory": "Rock, IC"
+    },
+    {
+        "pimage": "",
+        "pname": "Ah Nge - အငဲ",
+        "pcategory": "Rock, IC"
+    },
+    {
+        "pimage": "",
+        "pname": "Myo Gyi - မျိုးကြီး",
+        "pcategory": "Rock, IC"
+    },
+    {
+        "pimage": "",
+        "pname": "Y Wine - ဝိုင်ဝိုင်း",
+        "pcategory": "Rock, IC"
     }
 ]
