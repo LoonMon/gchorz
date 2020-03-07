@@ -1,38 +1,102 @@
 [
     {
-        "btitle": "Dm",
-        "bname": "https://www.dummies.com/wp-content/uploads/105639.image0.jpg"
-    },
-    {
-        "btitle": "F",
-        "bname": "https://www.dummies.com/wp-content/uploads/105639.image0.jpg"
-    },
-    {
-        "btitle": "C",
+        "btitle": "C - Major Chord",
         "bname": "https://www.chordbank.com/media/c-chord.jpg"
     },
     {
-        "btitle": "G major - Gm",
-        "bname": "https://www.chordbank.com/media/g-chord.jpg"
+        "btitle": "C# - D Flat Major Chord",
+        "bname": "https://www.guitar-chords.org.uk/chord-images/c-sharp-major-2.gif"
+    },
+    {
+        "btitle": "D - Major Chord",
+        "bname": "https://www.chordbank.com/media/d-hero-750.jpg"
+    },
+    {
+        "btitle": "Eb - Major Chord",
+        "bname": "https://guitarlessons-com.s3.amazonaws.com/media/guitar-lessons-2/d-sharp-eb-major.jpg"
     },
     
     {
-        "btitle": "Am",
-        "bname": "https://www.chordbank.com/media/am-chord.jpg"
+        "btitle": "E - Major Chord",
+        "bname": "https://guitarlessons-com.s3.amazonaws.com/media/guitar-lessons-2/e-major.jpg"
     },
     {
-        "btitle": "Dm",
-        "bname": "https://www.chordbank.com/media/dm-hero-750.jpg"
+        "btitle": "F - Major Chord",
+        "bname": "https://www.chordbank.com/media/how-f-major-chord-v1.png"
     },
     {
-        "btitle": "Em",
+        "btitle": "F# / Gb - Major Chord",
         "bname": "https://www.chordbank.com/media/em-hero-750.jpg"
     },
     {
-        "btitle": "G",
+        "btitle": "G - Major Chord",
         "bname": "https://www.chordbank.com/media/g-chord.jpg"
     },
     
+    
+    {
+        "btitle": "Ab - Major Chord",
+        "bname": "https://guitarlessons-com.s3.amazonaws.com/media/guitar-lessons-2/ab-g%23-major.jpg"
+    },
+    {
+        "btitle": "A - Major Chord",
+        "bname": "https://www.chordbank.com/media/a-hero-750.jpg"
+    },
+    {
+        "btitle": "Bb - Major Chord",
+        "bname": "https://guitarlessons-com.s3.amazonaws.com/media/guitar-lessons-2/a%23-bb-major.jpg"
+    },
+    {
+        "btitle": "B - Major Chord",
+        "bname": "https://guitarlessons-com.s3.amazonaws.com/media/guitar-lessons-2/b-major.jpg"
+    },
+    {
+        "btitle": "Cm - Minor Chord",
+        "bname": "https://www.chordbank.com/media/cm-hero-750.jpg"
+    },{
+        "btitle": "Dbm - Minor Chord",
+        "bname": "https://guitarlessons-com.s3.amazonaws.com/media/guitar-lessons-2/c%23-db-minor.jpg"
+    },
+    {
+        "btitle": "Dm - Minor Chord",
+        "bname": "https://www.chordbank.com/media/dm-hero-750.jpg"
+    },
+    {
+        "btitle": "Ebm - Minor Chord",
+        "bname": "https://guitarlessons-com.s3.amazonaws.com/media/guitar-lessons-2/d-sharp-eb-minor.jpg"
+    },
+    {
+        "btitle": "Em - Minor Chord",
+        "bname": "https://www.chordbank.com/media/em-hero-750.jpg"
+    },
+    {
+        "btitle": "Fm - Minor Chord",
+        "bname": "https://www.guitar-chords.org.uk/chord-images/f-minor-3.gif"
+    },
+    {
+        "btitle": "F#m - Minor Chord",
+        "bname": "https://www.chordbank.com/media/f-sharp-minor-hero-750.jpg"
+    },
+    {
+        "btitle": "Gm - Minor Chord",
+        "bname": "https://www.chordbank.com/media/gm-hero-750.jpg"
+    },
+    {
+        "btitle": "Abm - Minor Chord",
+        "bname": "https://www.play-acoustic-guitar.com/images/Aflatmin-Simple-Guitar-Chord-Chart.png"
+    },
+    {
+        "btitle": "Am - Minor Chord",
+        "bname": "https://www.chordbank.com/media/am-chord.jpg"
+    },
+    {
+        "btitle": "Bbm - Minor Chord",
+        "bname": "https://guitarlessons-com.s3.amazonaws.com/media/guitar-lessons-2/a%23-bb-minor.jpg"
+    },
+    {
+        "btitle": "Bm - Minor Chord",
+        "bname": "https://www.chordbank.com/media/how-b-minor-chord-v3.png"
+    }, 
     {
         "btitle": "Rock Guitar တီးနည်း (ညီညီထွေး)",
         "bname": "https://www.mediafire.com/file/8ffjxou8bwb6f6y/%25E1%2580%25B1%25E1%2580%259B%25E1%2580%25AC%25E1%2580%25B7%25E1%2580%2582%25E1%2580%2585%25E1%2580%25B9%25E1%2580%2590%25E1%2580%25AC%25E1%2580%2590%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%2594%25E1%2580%258A%25E1%2580%25B9%25E1%2580%25B8_%2528%25E1%2580%258A%25E1%2580%25AE%25E1%2580%258A%25E1%2580%25AE%25E1%2580%25B1%25E1%2580%2591%25E1%2580%25BC%25E1%2580%25B8%2529.pdf/file"
