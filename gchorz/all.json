@@ -1737,8 +1737,8 @@
     },
     {
         "singer": "Zaw Paing - ဇော်ပိုင်",
-        "songimage": "အနမ်းနေ့စွဲ",
-        "songtitle": "https://1.bp.blogspot.com/-InKNLz2h5-U/XmPNA1SHDqI/AAAAAAAAACI/rThl6v0YUF0aKFja7BIW7SKlV3cIQ-_sQCLcBGAsYHQ/s1600/anns.png",
+        "songimage": "https://1.bp.blogspot.com/-InKNLz2h5-U/XmPNA1SHDqI/AAAAAAAAACI/rThl6v0YUF0aKFja7BIW7SKlV3cIQ-_sQCLcBGAsYHQ/s1600/anns.png",
+        "songtitle": "အနမ်းနေ့စွဲ",
         "songcategory": "Music, Rock",
         "songalbum": "မြို့အဝင်ည"
     },
@@ -1814,9 +1814,86 @@
     },
     {
         "singer": "Zaw Paing - ဇော်ပိုင်",
-        "songimage": "",
-        "songtitle": "အချစ်မြို့",
+        "songimage": "https://1.bp.blogspot.com/-dmUMkuA3gVM/XmPQDAJ6n7I/AAAAAAAAADg/Rh3fP84L6wUWLAA-sVosVY1KF1OcESyZgCLcBGAsYHQ/s1600/1.png",
+        "songtitle": "မင်းမှတ်မိဦးမလား",
         "songcategory": "Music, Rock",
-        "songalbum": "မြို့အဝင်ည"
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "https://1.bp.blogspot.com/-j8fHxrN7R0Q/XmPQDEgUqvI/AAAAAAAAADc/vXbqs5BDSqk62Z_rKs64jTftx0NTsCB9gCLcBGAsYHQ/s1600/2.png",
+        "songtitle": "တပ်မက်စိတ်တို့စွန့်ပစ်",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "https://1.bp.blogspot.com/-WoJNG__Otk0/XmPQDNcWyrI/AAAAAAAAADk/ZkWBNsmE5gcB7ZTZFhM2w_QbFTJPSugMwCLcBGAsYHQ/s1600/3.png",
+        "songtitle": "နတ္တိအနမ်း",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "https://1.bp.blogspot.com/-Xt9fv8JKeLk/XmPQD-IyshI/AAAAAAAAADs/iWHebRjpnoQ1kwU2HZmPtjYzCUBg_WJkgCLcBGAsYHQ/s1600/4.png",
+        "songtitle": "ဘယ်တော့မှမမေ့ဘူး",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "https://1.bp.blogspot.com/-FMYva0zhFaM/XmPQD0QAj-I/AAAAAAAAADo/lewTkODFf8oGWsVt3s7O3ek19gyVe-MFQCLcBGAsYHQ/s1600/5.png",
+        "songtitle": "အမိန့်",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "https://1.bp.blogspot.com/-e8dtPd0CRCg/XmPQEOzaIyI/AAAAAAAAADw/M3YwWm7KGuI5BlXWl-YvZ62KviQTD3AtwCLcBGAsYHQ/s1600/6.png",
+        "songtitle": "စဉ်းစားကြ",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "https://1.bp.blogspot.com/-dfI9GaKSMoA/XmPQEnr1H2I/AAAAAAAAAD0/vSwOWL7d214nEbobfb8MI8Uw9QNj7rOHQCLcBGAsYHQ/s1600/7.png",
+        "songtitle": "အိပ်မက်ဂီတ",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "https://1.bp.blogspot.com/-XLUR1hkYG1M/XmPQE9ckB4I/AAAAAAAAAD4/etUHMgEepNQPoK37aYRrwkTkEPT8tTZhQCLcBGAsYHQ/s1600/8.png",
+        "songtitle": "အဓိပ္ပာယ်ရှိသောလူ",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "https://1.bp.blogspot.com/-Cl49LmhLHaE/XmPQFOJDmlI/AAAAAAAAAD8/ymZ6ZbImvFA_zeK-sx9QgGITOlzmVCE5ACLcBGAsYHQ/s1600/9.png",
+        "songtitle": "မြို့ပြည",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "",
+        "songtitle": "",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "",
+        "songtitle": "",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
+    },
+    {
+        "singer": "Zaw Paing - ဇော်ပိုင်",
+        "songimage": "",
+        "songtitle": "",
+        "songcategory": "Music, Rock",
+        "songalbum": "အမိန့်"
     }
 ]
