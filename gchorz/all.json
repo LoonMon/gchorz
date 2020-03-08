@@ -2520,10 +2520,199 @@
         "songalbum": "အသင့်ဖြစ်ထားတယ်"
     },
     {
-        "singer": "Wana - ဝန",
-        "songimage": "????",
-        "songtitle": "????",
-        "songcategory": "Music",
-        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-xOG5xsxfKOc/XmSuPqzBWuI/AAAAAAAAANc/XR-KFMzoAY8spES064ehSTshTHTO5NZSgCLcBGAsYHQ/s1600/1.jpg",
+        "songtitle": "နာမည်ကြီး",
+        "songcategory": "Pop",
+        "songalbum": "နာမည်ကြီး"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-8c21mrUe5WQ/XmSuPRCpbrI/AAAAAAAAANY/gyEBW0Y4yi0ZZodTVG-ySroltgsCaFlEwCLcBGAsYHQ/s1600/2.jpg",
+        "songtitle": "နားလည်ပါ + လမ်းနဲ့အလွမ်း",
+        "songcategory": "Pop",
+        "songalbum": "နာမည်ကြီး"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-mhwCizgOx-c/XmSuPTneceI/AAAAAAAAANU/42ndOZvhs3EcNfNLl4x7M4OrHx3DlIe_gCLcBGAsYHQ/s1600/3.jpg",
+        "songtitle": "အရွယ်ရောက်ရင်",
+        "songcategory": "Pop",
+        "songalbum": "နာမည်ကြီး"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-SDdMr3VGp9E/XmSuQTlq3oI/AAAAAAAAANg/gz2aQELfSLE92ErpcUkuNpofrsbzLLvTwCLcBGAsYHQ/s1600/4.jpg",
+        "songtitle": "မင်္ဂလာဆောင်ကိုရွှေ့လိုက်တော့",
+        "songcategory": "Pop",
+        "songalbum": "နာမည်ကြီး"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-xOZpCpEtDb4/XmSuQglpvaI/AAAAAAAAANk/VR_G4ES51nknlCmW3ZK_JaorMX214rSSQCLcBGAsYHQ/s1600/5.jpg",
+        "songtitle": "ဖြစ်တတ်တဲ့တစ်နေ့",
+        "songcategory": "Pop",
+        "songalbum": "နာမည်ကြီး"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-2XBfbXPVCdE/Von_Olv6UQI/AAAAAAAAMPs/XuqgRCWSdwI/s1600/BigBagIDGAF%2B2.jpg",
+        "songtitle": "ညနက်နက်",
+        "songcategory": "Pop",
+        "songalbum": "IDGAF"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-2ozKG0_PgEE/Von_OO1R9fI/AAAAAAAAMPo/ibMQPLaqmng/s1600/BigBagIDGAF%2B3.jpg",
+        "songtitle": "Nobody Cares",
+        "songcategory": "Pop",
+        "songalbum": "IDGAF"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-0YOvJPdT0ZY/Von_PD5ourI/AAAAAAAAMPw/ivleSxU6SZI/s1600/BigBagIDGAF%2B4.jpg",
+        "songtitle": "လူလား",
+        "songcategory": "Pop",
+        "songalbum": "IDGAF"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://2.bp.blogspot.com/-Rq3a5Z_hoTU/Von_Pj67P8I/AAAAAAAAMP8/8yUsOp2-EuU/s1600/BigBagIDGAF%2B5.jpg",
+        "songtitle": "ခြောက်သွေ့",
+        "songcategory": "Pop",
+        "songalbum": "IDGAF"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-2BxTUeQdtHo/Von_P4QccwI/AAAAAAAAMQA/yq96KDAn7Oc/s1600/BigBagIDGAF%2B6.jpg",
+        "songtitle": "ခလုတ်ထိမှ",
+        "songcategory": "Pop",
+        "songalbum": "IDGAF"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://scontent.fmdl2-1.fna.fbcdn.net/v/t1.0-9/s960x960/69267633_116042763089822_602038038465347584_o.png?_nc_cat=109&_nc_sid=0be424&_nc_oc=AQmPNQjeDBKZYKwO7smHUtk6MaKHApBFY3Qy8P8xhQhyhgeyJZnrzjH8ztpacIsZfOc&_nc_ht=scontent.fmdl2-1.fna&oh=18f693d49b3c130bae961fd9baf2b465&oe=5E955119",
+        "songtitle": "ဝေးသွားလည်း",
+        "songcategory": "Pop",
+        "songalbum": "IDGAF"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/--r7MGsu3BS8/Von_QshP1tI/AAAAAAAAMQQ/GmKA73UTzDc/s1600/BigBagIDGAF%2B8.jpg",
+        "songtitle": "IDGAF",
+        "songcategory": "Pop",
+        "songalbum": "IDGAF"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-XdoyDvlNdDw/Von_RDkzrDI/AAAAAAAAMQc/X5m1YcIVTYc/s1600/BigBagIDGAF%2B9.jpg",
+        "songtitle": "Go Play The Fcking Video Games",
+        "songcategory": "Pop",
+        "songalbum": "IDGAF"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-uWLnOQaFtLw/TVlQWwrh6-I/AAAAAAAABPE/MhRK-6VHbpw/s1600/BigBagTelepunk%2B6.JPG",
+        "songtitle": "မေ့ထားလိုက်",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://2.bp.blogspot.com/-QwxX3Ep-hIk/TVlQWsRYJQI/AAAAAAAABO8/DUJC-jze3cE/s1600/BigBagTelepunk%2B7.JPG",
+        "songtitle": "နှစ်ကပ်ထဲပါသော ရုပ်ရှင်",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-1jBNwjXpSiI/TVlQWcR2RjI/AAAAAAAABO0/I18lQ0VfXx8/s1600/BigBagTelepunk%2B8.JPG",
+        "songtitle": "မသိ မရှိ",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://2.bp.blogspot.com/-SF_mMsrcZ5E/TVlQWDLWhWI/AAAAAAAABOs/ulrxTrfXkI4/s1600/BigBagTelepunk%2B9.JPG",
+        "songtitle": "ကြုံရင်ပြောပေးပါ",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-MeAON4RKhsk/TVlQK43gPlI/AAAAAAAABOk/LVOMlE40D2c/s1600/BigBagTelepunk%2B10.JPG",
+        "songtitle": "လက်ခံထားဆဲ",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-sy8O8vATCpQ/TVlQKgNGpFI/AAAAAAAABOc/z1ZtufH5eL8/s1600/BigBagTelepunk%2B11.JPG",
+        "songtitle": "သီချင်း ၂",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-FFZnzRra06c/TVlQKWiWhTI/AAAAAAAABOU/8IE-zEDgs5U/s1600/BigBagTelepunk%2B12.JPG",
+        "songtitle": "Bluetooth",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-ImoD4oLt1mo/TVlQKGct_1I/AAAAAAAABOM/zcPkzGY25fs/s1600/BigBagTelepunk%2B13.JPG",
+        "songtitle": "ခွင့်လွှတ်ပေးရမယ်ပေါ့",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/--cFM_vD4_H0/TVlQJ6LxaCI/AAAAAAAABOE/EsGQ-Sb0cc0/s1600/BigBagTelepunk%2B14.JPG",
+        "songtitle": "ဟိုလိုဒီလို",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-XURLKVOhgL4/TVlNNDLVQDI/AAAAAAAABNs/6nSFasMck0w/s1600/BigBagTelepunk%2B15.JPG",
+        "songtitle": "See Green",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://2.bp.blogspot.com/-zHe3G2a_fBg/TVlNMtyMJcI/AAAAAAAABNk/_IfqvFqptc4/s1600/BigBagTelepunk%2B16.JPG",
+        "songtitle": "တယ်လီပန့်",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-7JVrL-WJr58/TVlNMFRYBeI/AAAAAAAABNc/QyoCrrVZbtQ/s1600/BigBagTelepunk%2B17.JPG",
+        "songtitle": "ကျွန်ုပ်ရဲ့အခြားတစ်ဖက်",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-PRL7SISOGSk/TVlNL1wNZCI/AAAAAAAABNU/0tUkbsSJigs/s1600/BigBagTelepunk%2B18.JPG",
+        "songtitle": "ခုနှစ်လွှာ",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://scontent.fmdl2-2.fna.fbcdn.net/v/t1.0-9/23844860_1716354185065066_838218446722973688_n.jpg?_nc_cat=110&_nc_sid=110474&_nc_oc=AQnPVCrx0Jm4tnpV-KO2auQ2nqxRyI8TJTXtzIdkXD51ZwYyZpNJlKkfheN779LqKVE&_nc_ht=scontent.fmdl2-2.fna&oh=d3d01767e13abb5c59ca37fbef2d5376&oe=5E8E6214",
+        "songtitle": "ကင်ဆာ",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "",
+        "songtitle": "တမ်းတ",
+        "songcategory": "Pop",
+        "songalbum": "Telepunk - တယ်လီပန့်"
     }
 ]
