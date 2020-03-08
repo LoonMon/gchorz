@@ -1204,6 +1204,69 @@
         "songalbum": "စိတ်ရွက်လှေ"
     },
     {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-pL7p-V9OLWc/XmSezsYiZcI/AAAAAAAAAMc/66mZFfdZYWM26AINBhv6teLVZSRWNpxowCLcBGAsYHQ/s1600/1.png",
+        "songtitle": "ကိုယ်ရေးရာဇဝင်",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-k859rQqDuuk/XmSezl-yGYI/AAAAAAAAAMU/_p6lD4WLxE87m_UQBZ9e1kF3agJLwdkeACLcBGAsYHQ/s1600/2.png",
+        "songtitle": "ပြန်ဆုံကြဖို့",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-uKlY5GOPxRU/XmSezrqI42I/AAAAAAAAAMY/WXNnYZ0oPk45FjNip09sT807V6q8e76-QCLcBGAsYHQ/s1600/3.png",
+        "songtitle": "အကြည့်",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-wye94iyb49g/XmSe0rIlulI/AAAAAAAAAMg/ptmCSELkKicIkhdOu366N7AqrfMDTMK1ACLcBGAsYHQ/s1600/4.png",
+        "songtitle": "ခေမာ",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-YupQNoCjISE/XmSe06kn_PI/AAAAAAAAAMk/Q7W2KL5IdkUiberuA63mszZz_ujf8DOSACLcBGAsYHQ/s1600/5.png",
+        "songtitle": "စိတ်မောတယ်",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-8nI456G58iU/XmSe0wvo9BI/AAAAAAAAAMo/M7ABRqQt3_gLXT00vOAXhlGIbHEx117_wCLcBGAsYHQ/s1600/6.png",
+        "songtitle": "မလိုချင်ပြန်ပေးခဲ့",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-mfFJuU82Yqg/XmSe1Ww3OOI/AAAAAAAAAMs/5BY9nKr5KmghB2pNN4-9kPKPRFVVzYM2ACLcBGAsYHQ/s1600/7.png",
+        "songtitle": "ဟိုတစ်ချိန်က ကမ်းခြေဆီ",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-Xvdipbn6wQ8/XmSe14d08FI/AAAAAAAAAMw/UT8RXD3HDGEYKuPFOlS_-R_I6UTkAy1VwCLcBGAsYHQ/s1600/8.png",
+        "songtitle": "ငါ့အတွက်မင်းဟာ သီချင်းလေး",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
+        "singer": "Ah Nge - အငဲ",
+        "songimage": "https://1.bp.blogspot.com/-2Rw2YSqDWY8/XmSe11EP4xI/AAAAAAAAAM0/vzyEH8HMHiYJhp8XIQ2p_WcgWATrSEOdgCLcBGAsYHQ/s1600/9.png",
+        "songtitle": "အမုန်းနှစ်ခုရဲ့အမှား",
+        "songcategory": "Rock, IC",
+        "songalbum": "သီချင်းများရဲ့ ဒိုင်ယာရီ"
+    },
+    {
         "singer": "Myo Gyi - မျိုးကြီး",
         "songimage": "https://2.bp.blogspot.com/-4THgljDtGDU/VasQIRo2rDI/AAAAAAAAL8k/SFz-XCahMH8/s1600/MyoGyiChanges%2B2.jpg",
         "songtitle": "ရှေ့ကလမ်းများ",
@@ -2380,10 +2443,87 @@
         "songalbum": "Top Hit Songs"
     },
     {
-        "singer": "Doe Lone - ဒိုးလုံး",
-        "songimage": "??",
-        "songtitle": "??",
+        "singer": "Wana - ဝန",
+        "songimage": "https://3.bp.blogspot.com/-xaWnKgK5GzE/VcbcyVNDPUI/AAAAAAAAMBg/vlL4Q05wRes/s1600/WanaAThintPhyitHtarTal%2B2.jpg",
+        "songtitle": "အသင့်ဖြစ်ထားတယ်",
         "songcategory": "Music",
-        "songalbum": "Top Hit Songs"
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://2.bp.blogspot.com/-1VQ_QtviLZk/VcbcFYrAzsI/AAAAAAAAMAk/UQh2J7aRbpw/s1600/WanaAThintPhyitHtarTal%2B3.jpg",
+        "songtitle": "မင်းရှိနေရုံ",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://4.bp.blogspot.com/-zv_SaHbzKLQ/VcbcGIBiTEI/AAAAAAAAMAw/CIkgGihucp0/s1600/WanaAThintPhyitHtarTal%2B4.jpg",
+        "songtitle": "ဘာကြောင့်",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://scontent.fmdl2-2.fna.fbcdn.net/v/t1.0-9/88175426_797328047421645_8357304440100749312_n.jpg?_nc_cat=102&_nc_sid=07e735&_nc_oc=AQkEMtSpliB1QUNaeS1gLE2J2CKlEoGbF1ynhkzwbaL--1IVo3I7GKXVCssHs0OEWWs&_nc_ht=scontent.fmdl2-2.fna&oh=0e7fb650df3bd83b2bfeabd5c5cb7d5e&oe=5E8F385E",
+        "songtitle": "အမုန်းနဲ့ပဲထိုက်တန်တယ်",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://scontent.fmdl2-1.fna.fbcdn.net/v/t1.0-9/69773306_134911767770434_1413321441868251136_n.jpg?_nc_cat=100&_nc_sid=1480c5&_nc_oc=AQl8IeS20VFqafP9X2Gw0uCdqLUNN12T45N-kcwdGDpmTGXx7qIKpDQyTpq3k-cMvBE&_nc_ht=scontent.fmdl2-1.fna&oh=c8c10942fa956186eeb6465e701fdf8c&oe=5E939E8D",
+        "songtitle": "စိတ်နာရုံ",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://scontent.fmdl2-2.fna.fbcdn.net/v/t1.0-9/67370338_2662776290423396_2213320484420845568_n.jpg?_nc_cat=105&_nc_sid=110474&_nc_oc=AQmuC6u5iPIq0iEy3v2bg6mYy4Za4HUbrubOpfJnSZFSJJtid0F1tY9joARr3kMo6dE&_nc_ht=scontent.fmdl2-2.fna&oh=2eaaf79fca08c93d040f42ae8155f6be&oe=5E94872F",
+        "songtitle": "မဆုံချင်တော့ဘူး",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://4.bp.blogspot.com/-YLbqb-3uBKY/VcbcTUb6KcI/AAAAAAAAMBQ/rmGcuGH8fvE/s1600/WanaAThintPhyitHtarTal%2B8.jpg",
+        "songtitle": "ပစ်မှတ်",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://3.bp.blogspot.com/-sCwxYfbga-8/VcbcUVwwRCI/AAAAAAAAMBY/xoGGefqTink/s1600/WanaAThintPhyitHtarTal%2B9.jpg",
+        "songtitle": "နင်မရှိတော့ရင်",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://scontent.fmdl2-1.fna.fbcdn.net/v/t1.0-9/61109764_111982150039394_4092687431713685504_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_oc=AQnvwN7MT8qm3hD-g34x0wOriReLzlkhHPM-AO-MxbvrjEAC9R6_G4JEudpQMastwyc&_nc_ht=scontent.fmdl2-1.fna&oh=adcb52c298aa8230d026d882f7bf21c5&oe=5E90EF3A",
+        "songtitle": "အရှုံးနဲ့လူ",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://2.bp.blogspot.com/-MZkL5jjSsNs/VcbcDbhmGfI/AAAAAAAAMAQ/jwIRVsesT_o/s1600/WanaAThintPhyitHtarTal%2B11.jpg",
+        "songtitle": "ကြိုးစားတိုင်း",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "https://scontent.fmdl2-2.fna.fbcdn.net/v/t1.0-9/72039598_506533826860602_7669481009787699200_n.jpg?_nc_cat=111&_nc_sid=07e735&_nc_oc=AQk_-uNmXlKvuEixSUBabZ7H0oa2i_aQO19KpZLjlHuQ7hfk8tmcjp9GhJ8K3FgjkOE&_nc_ht=scontent.fmdl2-2.fna&oh=1ea22144db184f9e80c315f54e1a466c&oe=5E950E95",
+        "songtitle": "အချစ်",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
+    },
+    {
+        "singer": "Wana - ဝန",
+        "songimage": "????",
+        "songtitle": "????",
+        "songcategory": "Music",
+        "songalbum": "အသင့်ဖြစ်ထားတယ်"
     }
 ]
