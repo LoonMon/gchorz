@@ -2396,7 +2396,7 @@
     {
         "singer": "Doe Lone - ဒိုးလုံး",
         "songimage": "https://1.bp.blogspot.com/-Q4TMUeE3W1M/XmSa96by7_I/AAAAAAAAALo/yadxqgNt4LAov6ouZn8Ozq58TuEoSQHBACLcBGAsYHQ/s1600/6.png",
-        "songtitle": "ငါတမ်းတနေမှာ",
+        "songtitle": "ငါနေမှာ",
         "songcategory": "Music",
         "songalbum": "Top Hit Songs"
     },
@@ -2710,9 +2710,114 @@
     },
     {
         "singer": "Big Bag - ဟန်ထူးလွင်",
-        "songimage": "",
-        "songtitle": "တမ်းတ",
+        "songimage": "https://4.bp.blogspot.com/-XWGpKgvxrZM/Tez0uwhmUQI/AAAAAAAACgw/fAvhzRr5DuY/s1600/TheBigShowInBag%2B2.jpg",
+        "songtitle": "ခုနှစ်နာရီ",
         "songcategory": "Pop",
-        "songalbum": "Telepunk - တယ်လီပန့်"
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-QcAeeXnmFZk/Tez0TcVV45I/AAAAAAAACgo/rOtrAR8cNPM/s1600/TheBigShowInBag%2B3.jpg",
+        "songtitle": "ပိုးဟပ်",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-aVYfBvLNDpY/Tez0TJYU3CI/AAAAAAAACgg/lF862tFnA1E/s1600/TheBigShowInBag%2B4.jpg",
+        "songtitle": "မင်းမရှိနေ့များ",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://2.bp.blogspot.com/-Ipy4a4WWmP4/Tez0S8Kcj8I/AAAAAAAACgY/Bb3e_PjBMSg/s1600/TheBigShowInBag%2B5.jpg",
+        "songtitle": "ဘယ်သူ့ကိုချစ်မှာလဲ",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-cueNlamr3-0/Tez0Sd306gI/AAAAAAAACgQ/8wXqzfwJvyU/s1600/TheBigShowInBag%2B6.jpg",
+        "songtitle": "ရွှေယုန်နဲ့ရွှေကျား",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-m2xM96c7qMI/Tez0SY4TPqI/AAAAAAAACgI/lLzlA_3SQE8/s1600/TheBigShowInBag%2B7.jpg",
+        "songtitle": "ဗီလိန်",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-LVEKuL5Qse4/TezssGBEIWI/AAAAAAAACgA/ELxqXWvb1qM/s1600/TheBigShowInBag%2B8.jpg",
+        "songtitle": "နောင်တ",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-CFhT9LdoF1Q/Tezsr1QhEPI/AAAAAAAACf4/oX1BmHLOaxw/s1600/TheBigShowInBag%2B9.jpg",
+        "songtitle": "စိတ်ညစ်ရပါလား",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-PhuO25s0-Cc/Tezsl6UazPI/AAAAAAAACfw/JLSe6t_oOd0/s1600/TheBigShowInBag%2B10.jpg",
+        "songtitle": "ဘာပဲဖြစ်ဖြစ်",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-72DMdFYMZiQ/Tezslx6zwEI/AAAAAAAACfo/yIclJebJmOE/s1600/TheBigShowInBag%2B11.jpg",
+        "songtitle": "လေထဲကငါ",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-J9GQDAAzZzQ/Tezslgp2qjI/AAAAAAAACfg/VXV23t0vVIY/s1600/TheBigShowInBag%2B12.jpg",
+        "songtitle": "နားလည်ပါ",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-RJCW3kzqklg/Tezrq-K2z7I/AAAAAAAACfY/JWo-SdPBwP4/s1600/TheBigShowInBag%2B13.jpg",
+        "songtitle": "သတိရရဲ့လား",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://1.bp.blogspot.com/-UnE8HP4ykRw/TezrqvMMa6I/AAAAAAAACfQ/_X9W_PcOlw8/s1600/TheBigShowInBag%2B14.jpg",
+        "songtitle": "ပြဇာတ်မဟုတ်သောပြဇာတ်",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://4.bp.blogspot.com/-v-eFbBhRnQE/TezrqZ_MzEI/AAAAAAAACfI/-Lu766VrQyA/s1600/TheBigShowInBag%2B15.jpg",
+        "songtitle": "နီးနီးလေးနဲ့ဝေး",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-8u2GJXsaYmY/Tezrp2rlRnI/AAAAAAAACfA/_QpfPHcG2EI/s1600/TheBigShowInBag%2B16.jpg",
+        "songtitle": "မယ်တင်",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
+    },
+    {
+        "singer": "Big Bag - ဟန်ထူးလွင်",
+        "songimage": "https://3.bp.blogspot.com/-uFtfus5ju8s/TezrpqWSJ5I/AAAAAAAACe4/loJGfkT2mDE/s1600/TheBigShowInBag%2B17.jpg",
+        "songtitle": "ကျွန်တော်မသိခြင်းများ",
+        "songcategory": "Pop",
+        "songalbum": "The Big Show In Bag"
     }
 ]
