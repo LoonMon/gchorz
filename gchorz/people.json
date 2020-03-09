@@ -1,16 +1,16 @@
 [
     {
-        "pimage": "https://raw.githubusercontent.com/LoonMon/gchorz/master/gchorz/sgrs/Lay%20Phyu.json",
+        "pimage": "",
         "pname": "Lay Phyu - လေးဖြူ",
         "pcategory": "Rock, IC"
     },
     {
-        "pimage": "https://raw.githubusercontent.com/LoonMon/gchorz/master/gchorz/sgrs/Lay%20Phyu.json",
+        "pimage": "",
         "pname": "Big Bag - ဟန်ထူးလွင်",
         "pcategory": "Pop"
     },
     {
-        "pimage": "https://raw.githubusercontent.com/LoonMon/gchorz/master/gchorz/sgrs/Ah%20Nge%20-%20%E1%80%A1%E1%80%84%E1%80%B2.json",
+        "pimage": "",
         "pname": "Ah Nge - အငဲ",
         "pcategory": "Rock, IC"
     },
@@ -72,6 +72,11 @@
     {
         "pimage": "",
         "pname": "Sai Htee Saing - စိုင်းထီးစိုင်",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "G Latt - ဂျီလတ်",
         "pcategory": "Music"
     },
     {
