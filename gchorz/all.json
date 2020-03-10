@@ -1,5 +1,103 @@
 [
     {
+        "singer": "Rin Go - ရင်ဂို",
+        "songimage": "https://1.bp.blogspot.com/-7Rc9jqWfpC0/XmdMb5UpMnI/AAAAAAAAAag/RXEzoYduCU8G0qFUrDE4ha90R47F9F3HgCLcBGAsYHQ/s1600/1.jpg",
+        "songtitle": "နှစ်သစ်မင်္ဂလာ",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Garaham - ဂရေဟမ်",
+        "songimage": "https://1.bp.blogspot.com/-fvFh6qIWjdM/XmdMdrmb0cI/AAAAAAAAAa4/Bbk9vHWE550dZ4GIf7clYn16sCmkNgf1wCLcBGAsYHQ/s1600/2.jpg",
+        "songtitle": "နွေအလှ",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Zaw Win Htut - ဇော်ဝင်းထွဋ်",
+        "songimage": "https://1.bp.blogspot.com/-9BsuVKzKDPs/XmdMeVQo4LI/AAAAAAAAAa8/A8Pbn7tUOiQgmaqz6isFxo2VETAeqLkCgCLcBGAsYHQ/s1600/3.jpg",
+        "songtitle": "တို့တွေမြူးမယ်",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Si Thu Lwin - စည်သူလွင်",
+        "songimage": "https://1.bp.blogspot.com/-Fbo7TgJxX2c/XmdMekjru1I/AAAAAAAAAbE/qVqWXVXnq5ECGwkeOtwtqCBt9xl69LAIwCLcBGAsYHQ/s1600/4.jpg",
+        "songtitle": "ရှာပုံတော် မင်းသားကြီး",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Garaham - ဂရေဟမ်",
+        "songimage": "https://1.bp.blogspot.com/-IS4ZLjkLN8I/XmdMfDC7jqI/AAAAAAAAAbI/HIharKBGGxowfsFM1WqEfFwfLGe_MSArgCLcBGAsYHQ/s1600/6.jpg",
+        "songtitle": "ချမ်းပါတယ်",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Garaham - ဂရေဟမ်",
+        "songimage": "https://1.bp.blogspot.com/-ejADPhXN8hg/XmdMgNUX-3I/AAAAAAAAAbQ/4J4QJDPreKkeGK-V3MKY51gBtJafo2ajQCLcBGAsYHQ/s1600/8.jpg",
+        "songtitle": "သင်္ကြန်မိုး",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Garaham - ဂရေဟမ်",
+        "songimage": "https://1.bp.blogspot.com/-9UEfUA7Sm3Q/XmdMgcEg_mI/AAAAAAAAAbU/IAHVzyCQTdoK_yjFgMzI1sjzRgUO-XqBgCLcBGAsYHQ/s1600/9.jpg",
+        "songtitle": "ပိတောက်တစ်မျက်နှာ",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Garaham - ဂရေဟမ်",
+        "songimage": "https://1.bp.blogspot.com/-ltA29a6BcQY/XmdMb8cUb6I/AAAAAAAAAaY/raImzwHwN38SMIE0Zg0lEFhCTPABuqXOQCLcBGAsYHQ/s1600/10.jpg",
+        "songtitle": "ချမ်းပါတယ်",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Si Thu Lwin - စည်သူလွင်",
+        "songimage": "https://1.bp.blogspot.com/-Wu_W9IUdLEY/XmdMb4riEyI/AAAAAAAAAac/HsQB3wuAK-owyhybSbpb3kfsJpnOn4tkgCLcBGAsYHQ/s1600/11.jpg",
+        "songtitle": "ယိမ်းသမလေးရေ",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Garaham - ဂရေဟမ်",
+        "songimage": "https://1.bp.blogspot.com/-bl6vhHbJyic/XmdMcnzP7xI/AAAAAAAAAak/LryIk_8uYrwgn7A51y5S6D8dczOfJeDXgCLcBGAsYHQ/s1600/12.jpg",
+        "songtitle": "နွေမ",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Garaham - ဂရေဟမ်",
+        "songimage": "https://1.bp.blogspot.com/-CO0HFL_drdo/XmdMdjMO8bI/AAAAAAAAAa0/VedH1f7Z1CUuHupjikRgW2ipCqQBIQNjACLcBGAsYHQ/s1600/16.jpg",
+        "songtitle": "အတာရေနန်းက မညိုမြ",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Thu Mg - သုမောင်",
+        "songimage": "https://1.bp.blogspot.com/-dz41erEf43c/XmdMdWIr2DI/AAAAAAAAAaw/sKTw8SjHew0CqUjdRQHLPjOj-dVO1r86wCLcBGAsYHQ/s1600/15.jpg",
+        "songtitle": "တူးပို့တူးပို့",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Rin Go - ရင်ဂို",
+        "songimage": "https://1.bp.blogspot.com/-TB083JJ_Y7E/XmdMdCp0uzI/AAAAAAAAAas/3vjTSirZXjAxsdl0yTU74eMYczxlgwe-ACLcBGAsYHQ/s1600/14.jpg",
+        "songtitle": "ရွှင်လန်းချမ်းမြေ့ပါစေ",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
+        "singer": "Zaw One - ဇော်ဝမ်း",
+        "songimage": "https://1.bp.blogspot.com/-UBgd96oaTAU/XmdMc8Ix8lI/AAAAAAAAAao/itwoIh02L9U5PyZn0ojvBsXB0uOHFixGQCLcBGAsYHQ/s1600/13.jpg",
+        "songtitle": "ကမယ်ဆိုတီးပါမယ်",
+        "songcategory": "Thinggyan Song",
+        "songalbum": "Thinggyan - သင်္ကြန်"
+    },
+    {
         "singer": "Lay Phyu - လေးဖြူ",
         "songimage": "https://3.bp.blogspot.com/-yUNAsBZs3RI/VMxJykarybI/AAAAAAAALpE/Cg2rj33E0Qo/s1600/LayPhyuDiary%2B2.jpg",
         "songtitle": "ငြိမ်းချမ်းရေးနိဒါန်း",
