@@ -21,7 +21,52 @@
     },
     {
         "pimage": "",
+        "pname": "PonaKa - ပုဏ္ဏက",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Si Thu Lwin - စည်သူလွင်",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Ma Naw - မနော",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Kai Zar - ကိုင်ဇာ",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Nyi Pu Lay - ညီပုလေး",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "J Mg Mg - ဂျေမောင်မောင်",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "ကိုမြကြီး - Ko Mya Gyi",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
         "pname": "Sai Sai Moh - စိုင်းဆိုင်မော့ဝ်",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Swon Maung - စွန်းမောင်",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Aung La - အောင်လ",
         "pcategory": "Music"
     },
     {
@@ -56,6 +101,11 @@
     },
     {
         "pimage": "",
+        "pname": "Bo Phyu - ဘိုဖြူ",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
         "pname": "Shwe Htoo - ရွှေထူး",
         "pcategory": "Rap"
     },
@@ -86,12 +136,37 @@
     },
     {
         "pimage": "",
+        "pname": "Kyaw Hein - ကျော်ဟိန်း",
+        "pcategory": "Rock"
+    },
+    {
+        "pimage": "",
+        "pname": "Ni Ni Khin Zaw - နီနီခင်ဇော်",
+        "pcategory": "Rock"
+    },
+    {
+        "pimage": "",
         "pname": "R Zar Ni - အာဇာနည်",
         "pcategory": "Rock"
     },
     {
         "pimage": "",
         "pname": "Htoo Eain Thin - ထူးအိမ်သင်",
+        "pcategory": "Rock"
+    },
+    {
+        "pimage": "",
+        "pname": "Soe Lwin Liwn - စိုးလွင်လွင်",
+        "pcategory": "Rock"
+    },
+    {
+        "pimage": "",
+        "pname": "Sai Sai Kham Hlaing - စိုင်းစိုင်းခမ်းလှိုင်",
+        "pcategory": "Rock"
+    },
+    {
+        "pimage": "",
+        "pname": "Phyo Myat Aung - ဖြိုးမြတ်အောင်",
         "pcategory": "Rock"
     },
     {
@@ -126,7 +201,7 @@
     },
     {
         "pimage": "",
-        "pname": "Sai Htee Saing - စိုင်းထီးစိုင်",
+        "pname": "Sai Htee Saing - စိုင်းထီးဆိုင်",
         "pcategory": "Music"
     },
     {
@@ -153,7 +228,7 @@
         "pimage": "",
         "pname": "Kaw Ni - ကော်နီ",
         "pcategory": "Music"
-    },     
+    },
     {
         "pimage": "",
         "pname": "Zaw One - ဇော်ဝမ်း",
@@ -173,7 +248,7 @@
         "pimage": "",
         "pname": "Garaham - ဂရေဟမ်",
         "pcategory": "Thinggyan Song,Music"
-    },  
+    },
     {
         "pimage": "",
         "pname": "Thar D Lu - သာဒီးလူ",
