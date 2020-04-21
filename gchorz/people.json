@@ -71,6 +71,11 @@
     },
     {
         "pimage": "",
+        "pname": "Aung Htet - အောင်ထက်",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
         "pname": "Daung Lwnn - ဒေါင်းလွဏ်း",
         "pcategory": "Music"
     },
@@ -136,13 +141,18 @@
     },
     {
         "pimage": "",
-        "pname": "Kyaw Hein - ကျော်ဟိန်း",
+        "pname": "Alex - အဲလက်စ်",
         "pcategory": "Rock"
     },
     {
         "pimage": "",
+        "pname": "Kyaw Hein - ကျော်ဟိန်း",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
         "pname": "Ni Ni Khin Zaw - နီနီခင်ဇော်",
-        "pcategory": "Rock"
+        "pcategory": "Music"
     },
     {
         "pimage": "",
@@ -152,26 +162,36 @@
     {
         "pimage": "",
         "pname": "Htoo Eain Thin - ထူးအိမ်သင်",
-        "pcategory": "Rock"
+        "pcategory": "Music"
     },
     {
         "pimage": "",
         "pname": "Soe Lwin Liwn - စိုးလွင်လွင်",
-        "pcategory": "Rock"
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "L Phyu - အယ်လ်ဖြူ",
+        "pcategory": "Music"
     },
     {
         "pimage": "",
         "pname": "Sai Sai Kham Hlaing - စိုင်းစိုင်းခမ်းလှိုင်",
-        "pcategory": "Rock"
+        "pcategory": "Rap"
     },
     {
         "pimage": "",
         "pname": "Phyo Myat Aung - ဖြိုးမြတ်အောင်",
-        "pcategory": "Rock"
+        "pcategory": "Music"
     },
     {
         "pimage": "",
         "pname": "Ba Din - ဘဒင်",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Black Hole",
         "pcategory": "Music"
     },
     {
@@ -216,7 +236,22 @@
     },
     {
         "pimage": "",
+        "pname": "Khaing Htoo - ခိုင်ထူး",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
         "pname": "Htoo L Linn - ထူးအယ်လင်း",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Sone Thin Pah - ဆုန်သင်းပါရ်",
+        "pcategory": "Music"
+    },
+    {
+        "pimage": "",
+        "pname": "Kaung Pyae - ကောင်းပြည့်",
         "pcategory": "Music"
     },
     {
